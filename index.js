@@ -1,4 +1,4 @@
-var SOUND_URL = "http://static.dev7.jp/bbsound/";
+var SOUND_URL = "./sound/";
 
 enchant();
 window.onload = function() {
